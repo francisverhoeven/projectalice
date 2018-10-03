@@ -1,2 +1,2 @@
 # projectalice
-Bringing dating back to the bare essentials
+Bringing dating back to the bare essentials.
